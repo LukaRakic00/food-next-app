@@ -1,5 +1,5 @@
-**Food Next App
-**Welcome to the Food Next App! This project is built using Next.js and aims to provide a seamless food ordering experience.
+Food Next App
+Welcome to the Food Next App! This project is built using Next.js and aims to provide a seamless food ordering experience.
 
 Table of Contents
 Overview
@@ -13,7 +13,7 @@ License
 Overview
 Food Next App is a web application designed to simplify the process of ordering food online. With a modern UI and intuitive navigation, users can browse through a wide range of dishes, select items, and place orders quickly.
 
-**Features
+Features
 🛒 Cart Management: Add and remove items from the cart.
 🍕 Menu: Browse an extensive menu with categories and details.
 🚚 Order Tracking: Track your orders in real-time.
@@ -54,7 +54,16 @@ After setting up, you can start exploring the app:
 
 Browse the menu, add items to your cart, and place an order.
 You can customize your orders and track them in real-time.
+Screenshots
+Showcase your app by adding screenshots here:
 
+Home Page
+
+Description of home page
+
+Cart
+
+Description of cart functionality
 
 Contributing
 Contributions are welcome! To contribute:
