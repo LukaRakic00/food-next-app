@@ -9,7 +9,6 @@ Welcome to the **Food Next App**! This project is built using **Next.js** and ai
 - **[Technologies](#technologies)**
 - **[Setup and Installation](#setup-and-installation)**
 - **[Usage](#usage)**
-- **[Screenshots](#screenshots)**
 - **[Contributing](#contributing)**
 - **[License](#license)**
 
@@ -56,8 +55,6 @@ To set up and run the project locally, follow these steps:
 After setting up, you can start exploring the app:
 * Browse the menu, add items to your cart, and place an order.
 * You can customize your orders and track them in real-time.
-
-## **Screenshots**
 
 ## **Contributing**
 Contributions are welcome! To contribute:
