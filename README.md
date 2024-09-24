@@ -9,8 +9,6 @@ Welcome to the **Food Next App**! This project is built using **Next.js** and ai
 - **[Technologies](#technologies)**
 - **[Setup and Installation](#setup-and-installation)**
 - **[Usage](#usage)**
-- **[Contributing](#contributing)**
-- **[License](#license)**
 
 ## **Overview**
 
