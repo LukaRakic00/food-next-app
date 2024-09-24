@@ -1,5 +1,5 @@
-Food Next App
-Welcome to the Food Next App! This project is built using Next.js and aims to provide a seamless food ordering experience.
+**Food Next App
+**Welcome to the Food Next App! This project is built using Next.js and aims to provide a seamless food ordering experience.
 
 Table of Contents
 Overview
