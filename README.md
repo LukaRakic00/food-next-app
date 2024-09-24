@@ -52,14 +52,14 @@ To set up and run the project locally, follow these steps:
     npm run dev
 5. Open http://localhost:3000 in your browser to view the app.
 
-**Usage**
+## **Usage**
 After setting up, you can start exploring the app:
 * Browse the menu, add items to your cart, and place an order.
 * You can customize your orders and track them in real-time.
 
-**Screenshots**
+## **Screenshots**
 
-**Contributing**
+## **Contributing**
 Contributions are welcome! To contribute:
 
 1. **Fork** the repository.
