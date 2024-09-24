@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Food Next App
+**Welcome to the Food Next App! This project is built using Next.js and aims to provide a seamless food ordering experience.
 
-## Getting Started
+Table of Contents
+Overview
+Features
+Technologies
+Setup and Installation
+Usage
+Screenshots
+Contributing
+License
+Overview
+Food Next App is a web application designed to simplify the process of ordering food online. With a modern UI and intuitive navigation, users can browse through a wide range of dishes, select items, and place orders quickly.
 
-First, run the development server:
+**Features
+🛒 Cart Management: Add and remove items from the cart.
+🍕 Menu: Browse an extensive menu with categories and details.
+🚚 Order Tracking: Track your orders in real-time.
+🔍 Search Functionality: Quickly find dishes by name or category.
+📱 Responsive Design: Optimized for both desktop and mobile.
+Technologies
+Next.js: Frontend framework for building fast, server-side rendered applications.
+React: Core library for building UI components.
+CSS Modules: Scoped CSS for styling components.
+API Integration: Uses RESTful APIs for fetching menu items and handling orders.
+Setup and Installation
+To set up and run the project locally, follow these steps:
 
-```bash
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/LukaRakic00/food-next-app.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd food-next-app
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the development server:
+
+bash
+Copy code
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open http://localhost:3000 in your browser to view the app.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Usage
+After setting up, you can start exploring the app:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Browse the menu, add items to your cart, and place an order.
+You can customize your orders and track them in real-time.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Contributing
+Contributions are welcome! To contribute:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Fork the repository.
+Create a new branch with your feature or fix: git checkout -b feature-name.
+Commit your changes: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature-name.
+Open a pull request.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
