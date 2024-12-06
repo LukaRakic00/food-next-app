@@ -22,6 +22,9 @@ Welcome to the **Food Next App**! This project is built using **Next.js** and ai
 - 🔍 **Search Functionality:** Quickly find dishes by name or category.
 - 📱 **Responsive Design:** Optimized for both desktop and mobile.
 
+  ## **App Screenshot**
+![Food Next App Screenshot](Food.webp)
+
 ## **Technologies**
 
 - **Next.js**: Frontend framework for building fast, server-side rendered applications.
