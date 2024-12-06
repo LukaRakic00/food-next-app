@@ -16,18 +16,17 @@ Welcome to the **Food Next App**! This project is built using **Next.js** and ai
 
 ## **Features**
 
-- 🛒 **Cart Management:** Add and remove items from the cart.
-- 🍕 **Menu:** Browse an extensive menu with categories and details.
-- 🚚 **Order Tracking:** Track your orders in real-time.
-- 🔍 **Search Functionality:** Quickly find dishes by name or category.
-- 📱 **Responsive Design:** Optimized for both desktop and mobile.
-
-  ## **App Screenshot**
-![Food Next App Screenshot](Food.webp)
+  - 📝 Recipe Creation: Create and manage your own recipes with ingredients and instructions.
+  - 🍽️ Recipe Collection: Browse and explore a variety of recipes from different categories.
+  - 🔍 Search Functionality: Easily search for recipes by name, ingredients, or category.
+  - 📱 Responsive Design: Optimized for both desktop and mobile use.
 
 ## **Technologies**
 
 - **Next.js**: Frontend framework for building fast, server-side rendered applications.
-- **React**: Core library for building UI components.
 - **CSS Modules**: Scoped CSS for styling components.
 - **API Integration**: Uses RESTful APIs for fetching menu items and handling orders.
+
+## **Screenshot**
+
+![Food Next App Screenshot](./food.webp)
