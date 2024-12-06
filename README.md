@@ -1,6 +1,4 @@
-# **Portfolio Website**
-
-Welcome to my **Portfolio Website**! This project is built using **Next.js**, **TypeScript**, and **Tailwind CSS** to showcase my personal projects, skills, and experience.
+Welcome to the **Food Next App**! This project is built using **Next.js** and aims to provide a seamless food ordering experience.
 
 ## **Table of Contents**
 
@@ -12,19 +10,22 @@ Welcome to my **Portfolio Website**! This project is built using **Next.js**, **
 
 ## **Overview**
 
-**Portfolio Website** is a personal project designed to showcase my work and professional journey. It includes sections for my skills, projects, and a contact form to get in touch. The website is optimized for both desktop and mobile devices.
+**Food Next App** is a web application designed to simplify the process of ordering food online. With a modern UI and intuitive navigation, users can browse through a wide range of dishes, select items, and place orders quickly.
 
 ## **Features**
 
-  - 💼 **About Me**: A section where you can learn more about my background and career.
-  - 📂 **Projects Gallery**: View a selection of projects I've worked on, complete with descriptions and links.
-  - 📝 **Skills List**: A comprehensive list of my technical skills, tools, and technologies.
-  - ✉️ **Contact Form**: An easy way to reach out to me for potential collaborations or inquiries.
-  - 📱 **Responsive Design**: Fully responsive design using **Tailwind CSS**, optimized for both desktop and mobile devices.
+  - 📝 Recipe Creation: Create and manage your own recipes with ingredients and instructions.
+  - 🍽️ Recipe Collection: Browse and explore a variety of recipes from different categories.
+  - 🔍 Search Functionality: Easily search for recipes by name, ingredients, or category.
+  - 📱 Responsive Design: Optimized for both desktop and mobile use.
 
 ## **Technologies**
 
-- **Next.js**: A powerful framework for building server-side rendered React applications.
-- **TypeScript**: Adds static typing to JavaScript, improving code quality and developer experience.
-- **Tailwind CSS**: A utility-first CSS framework for building custom designs without writing custom CSS.
-- **Vercel**: Hosting platform where this project is deployed.
+- **Next.js**: Frontend framework for building fast, server-side rendered applications.
+- **CSS Modules**: Scoped CSS for styling components.
+- **API Integration**: Uses RESTful APIs for fetching menu items and handling orders.
+
+## **Screenshot**
+
+![Food Next App Screenshot](./food.webp)
+"
