@@ -28,4 +28,4 @@ Welcome to the **Food Next App**! This project is built using **Next.js** and ai
 ## **Screenshot**
 
 ![Food Next App Screenshot](./food.webp)
-"
+
